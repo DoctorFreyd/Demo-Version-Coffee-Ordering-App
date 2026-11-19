@@ -74,7 +74,7 @@ export default function HomePage() {
               </motion.span>
               <h1 className="mt-6 text-balance text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
                 Your Perfect Coffee{" "}
-                Demo Versia {" "}
+                Demo Version {" "}
                 <span className="text-primary">Delivered Fresh</span>
               </h1>
               <p className="mt-6 text-pretty text-lg text-muted-foreground sm:text-xl">
